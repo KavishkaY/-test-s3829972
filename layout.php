@@ -11,7 +11,7 @@
 
       <?php require_once ("rightheaderdiv.php"); ?>
       <?php require_once ("bodymaincontent.php"); ?>
-      <?php require_once ("sidebar.php.php"); ?>
+      <?php require_once ("sidebar.php"); ?>
       <?php require_once ("footer.php"); ?>
 
 
